@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for glimpses
 title: "[feature]"
-labels: ''
+labels: feature
 assignees: aneesahammed
 
 ---
